@@ -16,4 +16,4 @@ reporting:
       percentiles: true  # display average times and percentiles
       failed-labels: false  # provides list of sample labels with failures
       test-duration: true  # provides test duration
-      dump-csv: TaurusResult/jmeter.csv
+      dump-csv: reports/jmeter.csv
