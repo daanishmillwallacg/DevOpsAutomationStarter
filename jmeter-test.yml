@@ -9,7 +9,7 @@ scenarios:
     requests:
     - label: uptimecheck
       method: GET
-      url: http://168.61.167.56:8080/
+      url: http://168.61.209.102:8080/
 reporting:
     - module: final-stats
       summary: true  # overall samples count and percent of failures
