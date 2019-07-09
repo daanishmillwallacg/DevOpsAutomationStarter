@@ -8,7 +8,7 @@ scenarios:
     timeout: 10s
     think-time: 3s
     requests:
-    - url: http://168.61.209.102:8080
+    - url: http://40.113.242.72:8080
       assert:
       - contains:
         - 'Hello World'
